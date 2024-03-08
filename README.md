@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kenan</h1>  
 <h3 align="center">A passionate developer from Azerbaijan!</h3>  
-## Who Am I
+<h3> Who Am I </h3>
 
 - 🎓 computer engineering student at Istanbul Technical University
 - 📚 learner of artificial intelligence and web development
