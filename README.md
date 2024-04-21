@@ -47,6 +47,6 @@
 - <a href="https://www.linkedin.com/in/kenan-bandaliyev-334b93200/">Linkedin</a>
 - <a href="mailto:kenan.bandaliyev@gmail.com">Mail</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milkygraph&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="abdullahsh20" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=milkygraph&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="milkygraph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkygraph&show_icons=true&theme=tokyonight&locale=en" alt="abdullahsh20" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=milkygraph&show_icons=true&theme=tokyonight&locale=en" alt="milkygraph" /></p>
