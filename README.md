@@ -33,6 +33,7 @@
 <a href="https://calendly.com/kenanbanda/30min">Pick a slot</a> if you'd like to meet me and chat about anything you are passionate about.
 
 ## Current Projects
+- UGUI - UI builder web application
 - Insects In Focus - Insect detection and classification model
 - Ixlas Dashboard - Full-Stack Admin landing page
 - Gesta - Static webpage generator written in Go
