@@ -34,14 +34,13 @@
 
 ## Current Projects
 - UGUI - UI builder web application
-- Insects In Focus - Insect detection and classification model
 - Ixlas Dashboard - Full-Stack Admin landing page
 - Gesta - Static webpage generator written in Go
-- Chant - Full-Stack chatting application written in Go + React
 
-## Notable Projects Collecting Dust
+## Notable Projects
 - Nyxis - A prototype game engine written in C++ and Vulkan API
-
+- Insects In Focus - Insect detection and classification model
+- Chant - Full-Stack chatting application written in Go + React
 
 ## Want to learn more about me?
 - <a href="https://milkygraph.github.io">Portfolio/Blog</a>
